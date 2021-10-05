@@ -5,6 +5,8 @@ language: python
 python:
   - "3.7.9"
 
+dist: focal
+
 # Instalação de Módulos que são necessários para a Aplicação.
 install:
   - pip install flask
