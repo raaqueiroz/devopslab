@@ -9,5 +9,5 @@ def pagina_inicial():
 if __name__ == '__main__':
     app.run(debug=True)
 
-print("1 + 1 = "(1+1))
+# print("1 + 1 = "(1+1))
 # Last line
