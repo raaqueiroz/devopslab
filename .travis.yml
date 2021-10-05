@@ -20,4 +20,4 @@ deploy:
   edge: true 
   app: rafael-queiroz-devops
   on:
-      branch: main
+    branch: main
